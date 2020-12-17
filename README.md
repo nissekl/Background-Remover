@@ -20,3 +20,7 @@ This project is based on the paper Lazy Snapping and graph cut part is executed 
   <img width="920" height="300" src="https://github.com/nissekl/Background_Remover/blob/main/Demo_Imgs/Screen%20Shot%202020-12-16%20at%209.40.13%20PM.png">
 </p>
 
+4. End the program by pressing "e".
+
+## Notice
+This program may not be useful for complicate background
