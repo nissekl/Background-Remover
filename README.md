@@ -3,4 +3,4 @@ This project is based on the paper Lazy Snapping and graph cut part is executed 
 
 ## How To Use It
 1. Draw the foreground (red line), press "n" on the keyboard to the next step when you complete drawing. If you don't like the drawing, you can press "d" to draw again.
-![Test Image 1](Demo_Imgs/Screen Shot 2020-12-16 at 9.34.13 PM.png)
+<img src=“https://github.com/nissekl/Background_Remover/blob/main/Demo_Imgs/Screen%20Shot%202020-12-16%20at%209.34.13%20PM.png”>
